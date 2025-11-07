@@ -1,0 +1,29 @@
+/*
+  Localizable.strings
+  Assignment
+  
+  Generated localization strings
+*/
+
+"yourCoupon" = "Váš kupón";
+"clickToRevealHiddenCode" = "Kliknite pre odhalenie skrytého kódu";
+"codeAlreadyActivated" = "Kód je už aktivovaný";
+"codeRevealedAndReadyForActivation" = "Kód je odhalený a pripravený na aktiváciu";
+"codeRevealedAndReadyForActivationWithDot" = "Kód je odhalený a pripravený na aktiváciu.";
+"scratchAndWin" = "Zotrieť a vyhrať";
+"scratchAndWinTitle" = "Zotrieť a vyhrať!";
+"clickButtonToRevealCode" = "Kliknite na tlačidlo pre odhalenie kódu";
+"scratch" = "Zotrieť";
+"useCoupon" = "Použiť kupón";
+"couponNotYetActivatedClickButtonBelowToActivate" = "Kupón ešte nie je aktivovaný. Kliknite na tlačidlo nižšie pre aktiváciu.";
+"thisCouponIsActivated" = "Tento kupón je aktivovaný.";
+"activate" = "Aktivuj";
+"activated" = "Aktivovaný";
+"couponActivated" = "Kupón aktivovaný";
+"hidden" = "Skryté";
+"ifYouDontUseCouponImmediatelyItWillBeAddedToMyCoupons" = "Ak kupón nepoužijete hneď, bude pridaný do \"moje kupóny\"";
+"failedToActivateCoupon" = "Nepodarilo sa aktivovať kupón";
+"everyoneWinsSomething" = "Každý vyhrá niečo!";
+"scratchToRevealTheWinningCode" = "Zotrieť pre odhalenie výherného kódu";
+"ok" = "OK";
+"yourAppVersionIsLowerThanRequiredForCardActivationPleaseUpdateToTheLatestVersion" = "Vaša verzia aplikácie je nižšia ako je požadované pre aktiváciu karty. Aktualizujte aplikáciu na najnovšiu verziu.";

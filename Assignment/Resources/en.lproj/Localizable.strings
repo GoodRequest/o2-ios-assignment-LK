@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  Assignment
+  
+  English localization strings
+*/
+
+"yourCoupon" = "Your Coupon";
+"clickToRevealHiddenCode" = "Click to reveal the hidden code";
+"codeAlreadyActivated" = "Code is already activated";
+"codeRevealedAndReadyForActivation" = "Code is revealed and ready for activation";
+"codeRevealedAndReadyForActivationWithDot" = "Code is revealed and ready for activation.";
+"scratchAndWin" = "Scratch and Win";
+"scratchAndWinTitle" = "Scratch and Win!";
+"clickButtonToRevealCode" = "Click the button to reveal the code";
+"scratch" = "Scratch";
+"useCoupon" = "Use Coupon";
+"couponNotYetActivatedClickButtonBelowToActivate" = "Coupon is not yet activated. Click the button below to activate.";
+"thisCouponIsActivated" = "This coupon is activated.";
+"activate" = "Activate";
+"activated" = "Activated";
+"couponActivated" = "Coupon Activated";
+"hidden" = "Hidden";
+"ifYouDontUseCouponImmediatelyItWillBeAddedToMyCoupons" = "If you don't use the coupon immediately, it will be added to \"My Coupons\"";
+"failedToActivateCoupon" = "Failed to activate coupon";
+"everyoneWinsSomething" = "Everyone wins something!";
+"scratchToRevealTheWinningCode" = "Scratch to reveal the winning code";
+"ok" = "OK";
+"yourAppVersionIsLowerThanRequiredForCardActivationPleaseUpdateToTheLatestVersion" = "Your app version is lower than required for card activation. Please update to the latest version.";
+
